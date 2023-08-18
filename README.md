@@ -8,7 +8,7 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
 - <b>Securing Access to Azure VNet</b>
   - [Securing Access to Azure VNet](https://github.com/brireyn/Azure-VNet)
 - <b>Monitoring Resources with AWS CloudWatch Lab</b>
-  - <b>https://github.com/brireyn/Monitor-Resources--AWS </b>
+  - <b>[Monitoring Resources with Custom AWS CloudWatch Dashboards](https://github.com/brireyn/Monitor-Resources--AWS) </b>
 
 
 
