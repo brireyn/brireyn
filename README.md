@@ -13,7 +13,8 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
 
 
 -🐱‍💻 I’m currently learning:
-  • CCSP certification for a current Cloud Security course.
   • Programming in Python course.
-  • Scripting and Automation in Powershell.
+  • CompTIA Project+ Certification
+  
+ 
   
