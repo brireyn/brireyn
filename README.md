@@ -10,11 +10,15 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
 - <b>Monitoring Resources with AWS CloudWatch Lab</b>
   - <b>[Monitoring Resources with Custom AWS CloudWatch Dashboards](https://github.com/brireyn/Monitor-Resources--AWS) </b>
 
+<h2> Scripting and Programming Projects</h2>
+-<b> Automating RBAC for Active Directory Users on Local Server Using PowerShell</b>
+- <b> Creating a MySQL Server Database and Automating AD User Data </b>
 
 
--🐱‍💻 I’m currently learning:
-  • Programming in Python course.
-  • CompTIA Project+ Certification
+-🐱‍💻 I’m currently studying:
+  • Cloud Platform Solutions - Microsoft Azure AZ-104 Administrator
+  
+  • Ansible on Windows and Automation for AWS 
   
  
   
