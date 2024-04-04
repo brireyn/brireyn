@@ -11,7 +11,9 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
   - <b>[Monitoring Resources with Custom AWS CloudWatch Dashboards](https://github.com/brireyn/Monitor-Resources--AWS) </b>
 
 <h2> Scripting and Programming Projects</h2>
+
 - <b>Automating RBAC for Active Directory Users on Local Server Using PowerShell</b>
+
 
 - <b>Creating a MySQL Server Database and Automating Active Directory Tasks</b>
 
