@@ -3,7 +3,7 @@
 I am a Cloud Computing student that is aspiring to become a Cloud Security Engineer. Feel free to check out my current labs and projects! 
 
 
-<h2>🔍🌥️ Cloud Security Projects:</h2>
+<h2>🔍🌥️ Cloud Security and CyberSecurity Projects:</h2>
 
 - <b>Securing Access to Azure VNet</b>
   - [Securing Access to Azure VNet](https://github.com/brireyn/Azure-VNet)
@@ -14,7 +14,7 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
 
 - <b>Automating RBAC for Active Directory Users on Local Server Using PowerShell</b>
 
-- <b>Creating a MySQL Server Database and Automating Active Directory Tasks</b>
+- <b> Automating Active Directory Tasks and MySQL Server Database with PowerShell</b>
 
  
 
