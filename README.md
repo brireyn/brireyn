@@ -20,7 +20,7 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
 
 
 
-<h3>🐱‍💻 I’m currently studying:</h3>
+<h3>🐱‍💻 What I’m currently studying:</h3>
 
   • Cloud Platform Solutions - Microsoft Azure AZ-104 Administrator
   
