@@ -12,9 +12,11 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
 
 <h2>👩‍💻 Scripting and Programming Projects</h2>
 
-- <b>Automating RBAC for Active Directory Users on Local Server Using PowerShell</b>
+- <b>Automating Administrative Tasks in Active Directory on Local Server Using PowerShell</b>
+  -  [Automating Administrative Tasks in AD Using PowerShell](https://github.com/brireyn/AD-Automation-Lab)
 
 - <b> Automating Active Directory Tasks and MySQL Server Database with PowerShell</b>
+  - [Automating Active Directory Tasks and MySQL Server Database with PowerShell]()
 
  
 
