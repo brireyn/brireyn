@@ -29,7 +29,7 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
 
   • Cloud Deployment and Operations - AWS SysOps Administrator Associate Certification Exam 
   
-  • Ansible on Windows and Automation for AWS 
+  • Terraform and Kubernetes Automation for AWS 
   
  
   
