@@ -21,7 +21,12 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
 - <b> Automating Active Directory Tasks and MySQL Server Database with PowerShell</b>
   - [Automating Active Directory Tasks and MySQL Server Database with PowerShell](https://github.com/brireyn/-Automating-AD-with-MySQL-Server-DB)
 
- 
+ <h2>💻 System Administration 🖱️ </h2>
+ - <b> Managing Active Directory in Windows Server 2022 </b>
+   - [Manage-Active-Directory-in-windows-server-2022](https://github.com/brireyn/Manage-Active-Directory-in-windows-server-2022-)
+   
+
+   
 
 
 
