@@ -23,7 +23,7 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
 
  <h2>💻 System Administration 🖱️ </h2>
  - <b> Managing Active Directory in Windows Server 2022 </b>
-   - [Managing Active Directory in Windows Server 2022] https://github.com/brireyn/Manage-Active-Directory-in-windows-server-2022
+   -  https://github.com/brireyn/Manage-Active-Directory-in-windows-server-2022
    
    
 
