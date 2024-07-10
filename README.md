@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brittany! 
 
-I am a Cloud Engineer with a passion for IT, cloud-based services, and cybersecurity. Feel free to check out my current labs and projects! 
+I am an IT professional with a passion for cloud-based services, systems administration and cybersecurity. Feel free to check out my current labs and projects! 
 
 
 <h2>🔍🌥️ Cloud Security and CyberSecurity Projects:</h2>
