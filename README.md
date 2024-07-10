@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brittany! 
 
-I am a Cloud Computing student that is aspiring to become a Cloud Security Engineer. Feel free to check out my current labs and projects! 
+I am a Cloud Engineer with a passion for IT, cloud-based services, and cybersecurity. Feel free to check out my current labs and projects! 
 
 
 <h2>🔍🌥️ Cloud Security and CyberSecurity Projects:</h2>
@@ -27,15 +27,12 @@ I am a Cloud Computing student that is aspiring to become a Cloud Security Engin
    
    
 
-   
-
-
 
 <h3>🐱‍💻 What I’m currently studying:</h3>
 
   • Cloud Deployment and Operations - AWS SysOps Administrator Associate Certification Exam 
   
-  • Terraform and Kubernetes Automation for AWS 
+  • Active Directory Enumeration and Attacks for Defense
   
  
   
