@@ -32,6 +32,8 @@ I am an IT professional with a passion for cloud-based services, systems adminis
 
   • Cloud Deployment and Operations - AWS SysOps Administrator Associate Certification Exam 
   
+  • Azure Administrator AZ-104 Certification Exam
+  
   • Active Directory Enumeration and Attacks for Defense
   
  
